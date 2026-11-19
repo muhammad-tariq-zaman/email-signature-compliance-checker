@@ -1,0 +1,18 @@
+From: Ayesha Khan <ayesha@company.local>
+--
+Ayesha Khan
+IT Support Executive
+Phone: +92 300 1112233
+Company Name
+This email is confidential and intended only for the recipient.
+---
+From: Bilal Ahmed <bilal@company.local>
+--
+Bilal Ahmed
+Phone: 0300 1234567
+---
+From: Sara Malik <sara@company.local>
+--
+Sara Malik
+IT Officer
+This email is confidential.
